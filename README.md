@@ -1,5 +1,4 @@
 # Yuhan_c
-*Yuhan Univ. C Language \n
-
-	*학번\n
-	*이름\n
+*Yuhan Univ. C Language
+  *학번
+  *이름
